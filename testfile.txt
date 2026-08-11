@@ -1,5 +1,2 @@
 This is test file
 Use case 25
-1234
-1212
-d
